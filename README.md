@@ -62,83 +62,56 @@ YearsWithCurrManager - Number of years with the current manager
 Education
 
 1 'Below College' 
-
 2 'College' 
-
 3 'Bachelor' 
-
 4 'Master' 
-
 5 'Doctor'
 
 EnvironmentSatisfaction
 
-
 1 'Low' 
-
 2 'Medium' 
-
 3 'High' 
-
 4 'Very High'
 
 JobInvolvement
 
-
 1 'Low' 
-
 2 'Medium'
-
 3 'High'
-
 4 'Very High'
 
 JobSatisfaction
 
 1 'Low' 
-
 2 'Medium' 
-
 3 'High'
-
 4 'Very High'
 
 PerformanceRating
 
 1 'Low' 
-
 2 'Good'
-
 3 'Excellent' 
-
 4 'Outstanding'
 
 Behaviour
 
 1 'Good'
-
 2 'Bad'
-
 3 'Not Rated'
 
 CommunicationSkill
 
 1 'Bad'
-
 2 'Average' 
-
 3 'Good'
-
 4 'Better'
-
 5 'Best'
 
 StockOptionLevel
 
 0 'No stocks'
-
 1 'Less Stocks' 
-
 2 'Moderate Stocks'
-
 3 'A lot of Stocks'
