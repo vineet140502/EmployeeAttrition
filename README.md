@@ -8,7 +8,7 @@ Built a linear regression model after applying necessary Feature Engineering to 
 The competition aimed to predict the probability that an employee will resign from the company based on his previous data at work.
 
 ## Requirements
-The following packages must be installed:
+The following packages must be installed with Python3 already installed:
 
 * Numpy
 * Pandas
