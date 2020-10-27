@@ -2,16 +2,16 @@
 Data analytics competition by CNA IITG
 
 ## Overview
-This comeptition was organized by CNA club IITG as part of thier Summer Analytics Course 2020. 
+CNA club IITG organized this competition as part of its Summer Analytics Course 2020. The Kaggle notebook can be accessed from [here](https://www.kaggle.com/vineet140502/employeeattrition) 
 
 ## Aim
-The am of the competition was to predict the probability that an employee will resign the company based on his previous data at work.
+The competition aimed to predict the probability that an employee will resign from the company based on his previous data at work.
 
 ## Evalutaion
-The evaluation metric for this competition wass AUC score under ROC. ROC is a probability curve and AUC represents degree or measure of separability. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s.
+The evaluation metric for this competition was the AUC score under ROC. ROC is a probability curve, and AUC represents the degree or measure of separability. Higher the AUC, the better the model is at predicting 0s as 0s and 1s as 1s.
 
 ## Data 
-The data was provided by IBM in the csv format(the same has been included in the repo) and consists of basic-details about the employee, his role in the company and work records.
+The data was provided by IBM in the CSV format(the same has been included in the repo) and consisted of basic-details about the employee, his role in the company, and work records.
 
 Data fields:
 
@@ -21,7 +21,7 @@ Age - Age of an Employee
 
 Attrition - Did the Employee leave the company, 0-No, 1-Yes
 
-BusinessTravel - Travlling frequency of an Employee
+BusinessTravel - Traveling frequency of an Employee
 
 Department - Work Department
 
