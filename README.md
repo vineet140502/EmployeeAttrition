@@ -1,11 +1,24 @@
 # EmployeeAttrition
-Data analytics competition by CNA IITG
+Data Analytics Competition by CNA club of IITG
 
 ## Overview
-CNA club IITG organized this competition as part of its Summer Analytics Course 2020. The Kaggle notebook can be accessed from [here](https://www.kaggle.com/vineet140502/employeeattrition) 
+Built a linear regression model after applying necessary Feature Engineering to predict Employee Attrition and used Data Pipeline to keep the code clean, the Kaggle notebook for the same can be accessed from [here](https://www.kaggle.com/vineet140502/employeeattrition). CNA club IITG organized this competition as part of its Summer Analytics Course 2020. 
 
 ## Aim
 The competition aimed to predict the probability that an employee will resign from the company based on his previous data at work.
+
+## Requirements
+The following packages must be installed:
+
+* Numpy
+* Pandas
+
+Other python libraries used:
+
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+* XGBoost
 
 ## Evalutaion
 The evaluation metric for this competition was the AUC score under ROC. ROC is a probability curve, and AUC represents the degree or measure of separability. Higher the AUC, the better the model is at predicting 0s as 0s and 1s as 1s.
