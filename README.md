@@ -2,7 +2,7 @@
 Data Analytics Competition by CNA club of IITG
 
 ## Overview
-Built a linear regression model after applying necessary Feature Engineering to predict Employee Attrition and used Data Pipeline to keep the code clean, the Kaggle notebook for the same can be accessed from [here](https://www.kaggle.com/vineet140502/employeeattrition). CNA club IITG organized this competition as part of its Summer Analytics Course 2020. 
+Built a linear regression model after applying necessary Feature Engineering to predict Employee Attrition and used Data Pipeline to keep the code clean, the Kaggle notebook for the same can be accessed from [here](https://www.kaggle.com/vineet140502/employeeattrition). CNA club IITG organized this competition as part of its Summer Analytics Course 2020 in July 2020. 
 
 ## Aim
 The competition aimed to predict the probability that an employee will resign from the company based on his previous data at work.
