@@ -24,7 +24,7 @@ Other python libraries used:
 The evaluation metric for this competition was the AUC score under ROC. ROC is a probability curve, and AUC represents the degree or measure of separability. Higher the AUC, the better the model is at predicting 0s as 0s and 1s as 1s.
 
 ## Data 
-The data was provided by IBM in the CSV format(the same has been included in the repo) and consisted of basic-details about the employee, his role in the company, and work records.
+The data was provided by IBM in the CSV format(the same has been included in the repo) and consisted of basic details about the employee, his role in the company, and work records.
 
 Data fields:
 
